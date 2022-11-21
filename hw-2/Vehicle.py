@@ -39,11 +39,16 @@ class Vehicle(ABC):
                 raise exceptions.LowFuelError('ошибка низкого уровня топлива (для старта)')
         return self.name, self.started
 
-    def move(self):
+    def move(self, distance):
         """Метод move"""
-        move_fuel = self.fuel - self.fuel_consumption
+        """(1) В Vehicle метод move принимает на вход дистанцию для движения. В зависимости 
+        от дистанции и потребления топлива принимается решение, может ли машина пройти данную 
+        дистанцию (тогда вычитаем из имеющегося топлива то количество, которое с учетом потребления 
+        потребуется для покрытия дистанции) или нет (тогда выбрасываем исключение NotEnoughFuel;"""
+        move_fuel = self.fuel - self.fuel_consumption * distance
         if move_fuel >= 0:
             self.fuel = move_fuel
+            print(f'{self.name} может ехать')
         else:
             raise exceptions.NotEnoughFuel('Недостаточно топлива (для преодаления дистанции)')
         return self.name, self.fuel

@@ -36,3 +36,8 @@ class Plane(Vehicle.Vehicle):
         print('обнулен cargo')
         self.cargo = cargo_tmp
         print('возвращано значение cargo')
+
+        return f'{self.name} -> {cargo_tmp}'
+
+"(3) В Plane методе remove_all_cargo под возвращением имеется ввиду return функции)) " \
+"То есть созраняем вес в переменной, обнуляем его в атрибуте класса, затем return cargo_tmp."
