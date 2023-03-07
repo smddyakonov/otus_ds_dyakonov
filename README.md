@@ -4,8 +4,8 @@
 https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-1
 
 ## honework 2 базовый класс и сделаете наследников, которые будут реализовывать различные методы
-https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-2;
-https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-2_short
+ - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-2
+ - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-2_short
 
 ## homework 3 Визуализация данных (PML)
 https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-3
