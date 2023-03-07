@@ -17,3 +17,6 @@ https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-5
 
 ## homework 6 "Градиентный бустинг"
 https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-6
+
+## homework 9 "Обучение без учителя. K-means, иерархическая кластеризация DBSCAN"
+https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-9
