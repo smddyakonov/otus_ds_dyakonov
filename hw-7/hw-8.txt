@@ -1,4 +1,4 @@
-homework 7 "Практика по PyTorch"
+homework 8 "Практика по PyTorch"
 
 Домашнее задание
 Практика по PyTorch
