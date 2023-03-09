@@ -21,3 +21,6 @@
 
 ## homework 9 "Обучение без учителя. K-means, иерархическая кластеризация DBSCAN"
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-9
+
+## homework 11 "Поиск аномалий в данных (ML)"
+https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-11
