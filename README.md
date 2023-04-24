@@ -33,3 +33,7 @@
 
 ## homework 11 "Поиск аномалий в данных (ML)"
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-11
+
+## homework 13 "Автокодировщики и автокодирование (DL)"
+ - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-13
+https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-13
