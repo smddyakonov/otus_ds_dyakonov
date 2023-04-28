@@ -36,3 +36,6 @@
 
 ## homework 13 "Автокодировщики и автокодирование (DL)"
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-13
+
+## homework 14 "Эволюция сверточных сетей: AlexNet->EfficientNet (DL) "
+ - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-14
