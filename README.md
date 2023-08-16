@@ -39,3 +39,6 @@
 
 ## homework 14 "Эволюция сверточных сетей: AlexNet->EfficientNet (DL) "
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-14
+ - 
+## homework 19 "Проект"
+ - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-19
