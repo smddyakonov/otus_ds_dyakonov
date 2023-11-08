@@ -39,6 +39,12 @@
 
 ## homework 14 "Эволюция сверточных сетей: AlexNet->EfficientNet (DL) "
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-14
+
+## homework 15 "homework 15 "Что день грядущий нам готовит? Построение прогноза временного ряда с использованием изученных методов (times-series, ВР)"
+ - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-15
    
 ## homework 19 "Проект"
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-19
+   
+## homework 20 Анализ текстовых данных. Часть 1: Предобработка и токенизация (NLP) 
+ - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-20
