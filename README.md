@@ -33,7 +33,7 @@
 
 ## homework 11 "Поиск аномалий в данных (ML)"
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-11
- - 
+   
 ## homework 12 "Когда-нибудь это закончится? Симуляция распространения болезни. Работа с NetworkX."
  - https://github.com/smddyakonov/otus_ds_dyakonov/tree/main/hw-12
 
